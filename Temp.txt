@@ -1,0 +1,16 @@
+﻿https://github.com/
+
+https://git-for-windows.github.io/ 
+
+
+moshuspt/s64zw_85x   moshuspt@gmail.com
+smoshu/s64zw_85x   327975045@qq.com
+
+
+
+
+对于有些人，提到GitHub就会自然的想到Gitlab,Gitlab支持无限的公有项目和私有项目。Gitlab地址：https://about.gitlab.com/
+
+bitbucket 免费支持5个开发成员的团队创建无限私有代码托管库 。bitbucket地址：https://bitbucket.org/
+
+开源中国一个账号最多可以创建1000个项目，包含公有和私有，开源中国代码托管地址：http://git.oschina.net/
